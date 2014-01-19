@@ -10,11 +10,6 @@ OpenCV (Open Computer Vision) est la librairie de reconnaissance d'image la plus
 
 Ce document à pour but de fournir une liste de plus de matériel pour apprendre, la documentation, des idées de projets, etc etc...
 
-Version
-----
-
-0.1
-
 Documents :
 -----------
 Hop
@@ -25,12 +20,52 @@ Hop
 * [Un blog avec pas mal de contenu](http://mateuszstankiewicz.eu/)
 * [De même.](http://www.shervinemami.info/openCV.html)
 * [Une méga liste de bouquins sur TOUT.](https://github.com/vhf/free-programming-books)
+* [Formal Methods of Software Design](http://www.cs.utoronto.ca/~hehner/FMSD/)
 
+
+
+
+Inspiration en vrac : 
+================
+
+*[Placemeter](http://placemeter.com/)
+*[Génération procédurale de cartes](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
+
+Web
+-----------
+
+*[Detection faciale en JS](http://auduno.github.io/clmtrackr/examples/facesubstitution.html)
+*[réseaux de neurones en JS](http://cs.stanford.edu/people/karpathy/convnetjs/)
+
+
+Cours : 
+=========
+
+Imagerie :
+--------
+*[Apprentissage en vision artificielle](https://www.coursera.org/course/artificialvision)
+
+IA
+-----------
+*[Coursera - Organisation de l'intelligence artificielle](https://www.coursera.org/course/aiplan)
+
+
+Dev géneral
+----------
+*[Parallelisme modèles, algos, mémoire...](https://www.coursera.org/course/hetero)
+
+Embarqué / Robotique
+------------
+*[EDX.org @ Embedded Systems - Shape the World | J'ai commandé les boards nécessaires au cours, si jamais quelqu'un veut.](https://www.edx.org/course/utaustinx/utaustinx-ut-6-01x-embedded-systems-1172)
+*[Le contrôle des robots mobiles](https://www.coursera.org/course/conrob)
+
+
+Concours :
+----------
+
+*[Make it wearable - intel](http://makeit.intel.com/)
+*
 
 
 Hésitez pas à contacter les dirlabs pour tout ajout.
 
-License
-----
-
-BeerWare
